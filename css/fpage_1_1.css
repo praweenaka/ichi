@@ -1,0 +1,10 @@
+.img {
+    height: 160px;
+    width: 160px;
+}
+
+#wt {
+	 background-image:url("/mspace/images/My.jpg");
+   background-repeat: no-repeat;
+    background-position: center;
+}
